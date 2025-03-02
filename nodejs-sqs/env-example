@@ -1,0 +1,2 @@
+REGION=your-sqs-region
+SQS_URL=https://sqs.us-east-1.amazonaws.com/your-account-id/your-queue-name
